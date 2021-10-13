@@ -1,5 +1,8 @@
-package com.github.bosamatheus.email;
+package com.github.bosamatheus.email.consumer;
 
+import com.github.bosamatheus.email.dto.EmailDto;
+import com.github.bosamatheus.email.model.Email;
+import com.github.bosamatheus.email.service.EmailService;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;

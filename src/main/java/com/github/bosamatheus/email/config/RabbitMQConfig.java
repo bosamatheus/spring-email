@@ -1,4 +1,4 @@
-package com.github.bosamatheus.email;
+package com.github.bosamatheus.email.config;
 
 import org.springframework.amqp.core.Queue;
 import org.springframework.amqp.support.converter.Jackson2JsonMessageConverter;

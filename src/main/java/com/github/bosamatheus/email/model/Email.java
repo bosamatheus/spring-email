@@ -1,5 +1,6 @@
-package com.github.bosamatheus.email;
+package com.github.bosamatheus.email.model;
 
+import com.github.bosamatheus.email.enums.StatusEmailEnum;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;

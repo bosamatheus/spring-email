@@ -1,5 +1,8 @@
-package com.github.bosamatheus.email;
+package com.github.bosamatheus.email.service;
 
+import com.github.bosamatheus.email.enums.StatusEmailEnum;
+import com.github.bosamatheus.email.model.Email;
+import com.github.bosamatheus.email.repository.EmailRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.mail.MailException;
 import org.springframework.mail.SimpleMailMessage;
