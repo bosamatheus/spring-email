@@ -1,4 +1,4 @@
-package com.github.bosamatheus.email;
+package com.github.bosamatheus.email.adapters.dto;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
