@@ -1,3 +1,3 @@
 # Microservice Email
 
-Microservice Email using Spring Boot, PostgreSQL and RabbitMQ.
+Microservice Email using Hexagonal Architecture, Spring Boot, PostgreSQL, and RabbitMQ.
